@@ -1,2 +1,2 @@
 # Imuno_Quest
-O projeto se trata de um jogo sobre vacinação, no qual o usuário assume o papel de personagem princiapal, que combate os vírus dentro do corpo humano. Contudo, este jogo possui objetivo educacional, tendo em vista que o público-alvo será crianças e adolescentes. 
+O projeto se trata de um jogo sobre vacinação, no qual o usuário assume o papel de personagem principal, que combate os vírus atrvés das perguntas respondidas durante o jogo, assim conforme os acertos dessas perguntas, o vírus tomará danos, fazendo com que ele seja derrotado. Contudo, este jogo possui objetivo educacional, tendo em vista que o público-alvo será crianças e adolescentes. 
